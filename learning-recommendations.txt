@@ -1,9 +1,0 @@
-ideals, varieties, and algorithms --- Cox, Little, O'shea
-primes of the form x^2+ny^2 --- Cox
-a course in arithmetic --- Serre
-probability with martingales --- Williams
-modular functions and dirichlet series --- Apostol
-combinatorics --- Bollobas
-number fields --- Marcus
-the symmetric group --- Sagan
-analytic number theory --- Newman
