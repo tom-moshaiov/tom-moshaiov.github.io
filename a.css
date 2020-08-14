@@ -10,3 +10,8 @@ a {color:blue; text-decoration:none;}
 .grid-item {
   padding: 5px;
   text-align: left;}
+
+.counter{
+    position: fixed;
+    bottom: 0px;
+}
